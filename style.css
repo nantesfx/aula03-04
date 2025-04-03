@@ -1,0 +1,11 @@
+canvas {
+    border: 1px solid black;
+
+}
+body {
+    text-align: center;
+}
+
+ctx {
+    background-color: black;
+}
